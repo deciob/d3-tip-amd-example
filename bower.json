@@ -1,0 +1,9 @@
+{
+"name": "d3-tip-amd-example",
+"version": "0.0.1",
+"dependencies": {
+  "d3": "",
+  "d3-tip": "",
+  "curl": ""
+}
+}

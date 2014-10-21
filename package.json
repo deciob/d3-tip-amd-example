@@ -1,0 +1,36 @@
+{
+"name": "d3-tip-amd-example",
+"version": "0.0.1",
+"description": "A d3-tip AMD example",
+"keywords": [
+"d3",
+"d3-tip",
+"AMD",
+"curl"
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "http://www.opensource.org/licenses/mit-license.php"
+}
+],
+"repository": [
+{
+"type": "git",
+"url": "git@github.com:deciob/d3-tip-amd-example.git"
+}
+],
+"maintainers": [
+{
+"name": "Decio Battaglia"
+}
+],
+"dependencies": {},
+"devDependencies": {
+"serv": ""
+},
+"scripts": {
+"postinstall": "bower install",
+"start": "serv --port 8080"
+}
+}
