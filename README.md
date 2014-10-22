@@ -1,7 +1,7 @@
 d3-tip-amd-example
 ==================
 
-It is the `bars` example from d3.tip adapted for an AMD environment.
+The [bars](https://github.com/Caged/d3-tip/blob/master/examples/bars.html) example from d3.tip for AMD.
 
 It uses [curl.js](https://github.com/cujojs/curl).
 
